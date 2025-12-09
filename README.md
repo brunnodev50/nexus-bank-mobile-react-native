@@ -2,6 +2,16 @@
 
 > Um aplicativo de Fintech moderno desenvolvido com **React Native** e **Expo**, focado em UI Design (Dark Mode), responsividade e experiência do usuário.
 
+| Login | Cadastro | Home |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/e7a09c8e-0d08-4ca0-803e-4b9cc2fd42a2" width="250" /> | <img src="https://github.com/user-attachments/assets/aada7bdb-85b6-4ebb-905a-057c6bab3329" width="250" /> | <img src="https://github.com/user-attachments/assets/dd15e6d1-54bf-417f-8c24-f3c0f54ce8c6" width="250" /> |
+
+| Pix | Boleto | Extrato |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/820d568b-8a80-4692-8229-7f20ad834346" width="250" /> | <img src="https://github.com/user-attachments/assets/c2b780ea-6274-47dc-b269-2ffabef4ac6d" width="250" /> | <img src="https://github.com/user-attachments/assets/d6a3441d-4989-42bd-bd03-fdcb9d5f7bc0" width="250" /> |
+
+<br>
+
 ## 📱 Sobre o Projeto
 
 O **Nexus Bank** é um projeto de simulação de um banco digital completo. O objetivo foi criar uma interface mobile responsiva e elegante, implementando lógicas de front-end para simular o fluxo real de uma conta bancária sem a necessidade de um backend complexo.
