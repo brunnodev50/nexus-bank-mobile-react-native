@@ -8,7 +8,7 @@
 
 | Pix | Boleto | Extrato |
 |:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/820d568b-8a80-4692-8229-7f20ad834346" width="250" /> | <img src="https://github.com/user-attachments/assets/c2b780ea-6274-47dc-b269-2ffabef4ac6d" width="250" /> | <img src="https://github.com/user-attachments/assets/d6a3441d-4989-42bd-bd03-fdcb9d5f7bc0" width="250" /> |
+| <img src="https://github.com/user-attachments/assets/820d568b-8a80-4692-8229-7f20ad834346" width="250" /> | <img src="https://github.com/user-attachments/assets/c2b780ea-6274-47dc-b269-2ffabef4ac6d" width="250" /> | <img src="https://github.com/user-attachments/assets/cd68406e-9e58-4320-9867-02b957732a5a" width="250" /> |
 
 <br>
 
