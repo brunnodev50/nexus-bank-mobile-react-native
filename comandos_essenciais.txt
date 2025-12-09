@@ -1,0 +1,57 @@
+===================================================
+      COMANDOS ESSENCIAIS - NEXUS BANK MOBILE
+===================================================
+
+1. PREPARAÇÃO INICIAL (Ao baixar o projeto)
+---------------------------------------------------
+# 1. Clonar o repositório (baixar do GitHub)
+git clone https://github.com/brunnodev50/nexus-bank-mobile-react-native.git
+
+# 2. Entrar na pasta do projeto
+cd nexus-bank-mobile-react-native
+
+# 3. Instalar todas as dependências (node_modules)
+npm install
+
+
+2. RODAR O PROJETO
+---------------------------------------------------
+# Iniciar o servidor de desenvolvimento (Expo)
+npx expo start
+
+# Iniciar limpando o cache (Use se der erro estranho)
+npx expo start --clear
+
+
+3. DEPENDÊNCIAS USADAS NESTE PROJETO
+---------------------------------------------------
+# Caso precise reinstalar as bibliotecas visuais:
+npx expo install expo-linear-gradient
+npx expo install react-native-svg
+
+
+4. SOLUÇÃO DE PROBLEMAS (Troubleshooting)
+---------------------------------------------------
+# A. Corrigir conflito de versões (React vs Renderer)
+# Esse comando alinha todas as versões com o Expo SDK atual
+npx expo install --fix
+
+# B. Forçar instalação de versão específica do React (Caso o erro peça)
+npm install react@19.1.1
+
+# C. Limpeza total (Se nada funcionar)
+# No Windows (PowerShell):
+Remove-Item -Recurse -Force node_modules
+Remove-Item package-lock.json
+npm install
+npx expo start --clear
+
+# No Mac/Linux:
+rm -rf node_modules package-lock.json
+npm install
+npx expo start --clear
+
+
+===================================================
+DICA: Para parar o servidor, pressione CTRL + C no terminal.
+===================================================
