@@ -1,0 +1,8 @@
+# 1. Instala a base do React Native
+npm install
+
+# 2. Instala a biblioteca de Gradiente (Essencial para o Cartão)
+npx expo install expo-linear-gradient
+
+# 3. Garante que os ícones funcionem
+npx expo install @expo/vector-icons
